@@ -7,7 +7,9 @@ public class EVENorODD {
         if (x%2==0){
             System.out.println("The numder is even");
         }
-        
+        else{
+            System.out.println("The number is odd");
+        }
 
         
     }
